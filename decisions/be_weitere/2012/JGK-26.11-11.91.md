@@ -1,0 +1,27 @@
+---
+decision_id: "be_weitere_JGK_26.11_-_11.91"
+court: "BE Weitere"
+court_id: "be_weitere"
+docket: "JGK 26.11 - 11.91"
+decided: "2012-08-24"
+language: "de"
+source_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheide_Sorgfaltspflicht_Ansehen%20des%20Notariats_de.pdf"
+pdf_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheide_Sorgfaltspflicht_Ansehen%20des%20Notariats_de.pdf"
+---
+
+# BE Weitere JGK 26.11 - 11.91
+
+## Regeste
+
+Sorgfaltspflicht, Ansehen des Notariats
+
+## Text
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide 24.08.2012 JGK 26.11 - 11.91
+Berne Autorité de surveillance du notariat Procédure disciplinaire 24.08.2012 JGK 26.11 - 11.91
+
+Sorgfaltspflicht, Ansehen des Notariats
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide
+Berne Autorité de surveillance du notariat Procédure disciplinaire
+Berna Disziplinarentscheide
