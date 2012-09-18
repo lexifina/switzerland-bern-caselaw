@@ -1,0 +1,27 @@
+---
+decision_id: "be_weitere_JGK_26.11_-_12.26"
+court: "BE Weitere"
+court_id: "be_weitere"
+docket: "JGK 26.11 - 12.26"
+decided: "2012-09-18"
+language: "de"
+source_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheide_Vermittlung%20von%20Liegenschaften%20gegen%20Provision_de.pdf"
+pdf_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheide_Vermittlung%20von%20Liegenschaften%20gegen%20Provision_de.pdf"
+---
+
+# BE Weitere JGK 26.11 - 12.26
+
+## Regeste
+
+Vermittlung von Liegenschaften gegen Provision
+
+## Text
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide 18.09.2012 JGK 26.11 - 12.26
+Berne Autorité de surveillance du notariat Procédure disciplinaire 18.09.2012 JGK 26.11 - 12.26
+
+Vermittlung von Liegenschaften gegen Provision
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide
+Berne Autorité de surveillance du notariat Procédure disciplinaire
+Berna Disziplinarentscheide
