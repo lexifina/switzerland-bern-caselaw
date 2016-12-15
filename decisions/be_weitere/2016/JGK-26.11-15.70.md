@@ -1,0 +1,27 @@
+---
+decision_id: "be_weitere_JGK_26.11_-_15.70"
+court: "BE Weitere"
+court_id: "be_weitere"
+docket: "JGK 26.11 - 15.70"
+decided: "2016-12-15"
+language: "de"
+source_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheid%2015.12.2016_fahrl%C3%A4ssige%20Verletzung%20Wahrheitspflicht%20bei%20Inventarisierung%20von%20Wertgegenst%C3%A4nden.pdf"
+pdf_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheid%2015.12.2016_fahrl%C3%A4ssige%20Verletzung%20Wahrheitspflicht%20bei%20Inventarisierung%20von%20Wertgegenst%C3%A4nden.pdf"
+---
+
+# BE Weitere JGK 26.11 - 15.70
+
+## Regeste
+
+fahrlässige Verletzung Wahrheitspflicht bei Inventarisierung von Wertgegenständen
+
+## Text
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide 15.12.2016 JGK 26.11 - 15.70
+Berne Autorité de surveillance du notariat Procédure disciplinaire 15.12.2016 JGK 26.11 - 15.70
+
+fahrlässige Verletzung Wahrheitspflicht bei Inventarisierung von Wertgegenständen
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide
+Berne Autorité de surveillance du notariat Procédure disciplinaire
+Berna Disziplinarentscheide
