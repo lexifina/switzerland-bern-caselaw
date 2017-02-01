@@ -1,0 +1,27 @@
+---
+decision_id: "be_weitere_JGK_26.11_-_16.26"
+court: "BE Weitere"
+court_id: "be_weitere"
+docket: "JGK 26.11 - 16.26"
+decided: "2017-02-01"
+language: "de"
+source_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheid%20%2001.02.2017_Verletzung%20Ausstandspflicht.pdf"
+pdf_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheid%20%2001.02.2017_Verletzung%20Ausstandspflicht.pdf"
+---
+
+# BE Weitere JGK 26.11 - 16.26
+
+## Regeste
+
+Verletzung Ausstandspflicht
+
+## Text
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide 01.02.2017 JGK 26.11 - 16.26
+Berne Autorité de surveillance du notariat Procédure disciplinaire 01.02.2017 JGK 26.11 - 16.26
+
+Verletzung Ausstandspflicht
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide
+Berne Autorité de surveillance du notariat Procédure disciplinaire
+Berna Disziplinarentscheide
