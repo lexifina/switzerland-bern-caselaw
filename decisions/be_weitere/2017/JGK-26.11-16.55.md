@@ -1,0 +1,27 @@
+---
+decision_id: "be_weitere_JGK_26.11_-_16.55"
+court: "BE Weitere"
+court_id: "be_weitere"
+docket: "JGK 26.11 - 16.55"
+decided: "2017-04-11"
+language: "de"
+source_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Entscheid%2011.04.2017_Verletzung%20Wahrheitspflicht%20durch%20nachtr%C3%A4gliche%20Ab%C3%A4nderung%20einer%20Urschrift.pdf"
+pdf_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Entscheid%2011.04.2017_Verletzung%20Wahrheitspflicht%20durch%20nachtr%C3%A4gliche%20Ab%C3%A4nderung%20einer%20Urschrift.pdf"
+---
+
+# BE Weitere JGK 26.11 - 16.55
+
+## Regeste
+
+Verletzung Wahrheitspflicht durch nachträgliche Abänderung einer Urschrift
+
+## Text
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide 11.04.2017 JGK 26.11 - 16.55
+Berne Autorité de surveillance du notariat Procédure disciplinaire 11.04.2017 JGK 26.11 - 16.55
+
+Verletzung Wahrheitspflicht durch nachträgliche Abänderung einer Urschrift
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide
+Berne Autorité de surveillance du notariat Procédure disciplinaire
+Berna Disziplinarentscheide
