@@ -1,0 +1,27 @@
+---
+decision_id: "be_weitere_JGK_26.11_-_17.27"
+court: "BE Weitere"
+court_id: "be_weitere"
+docket: "JGK 26.11 - 17.27"
+decided: "2017-10-20"
+language: "de"
+source_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheid%2020.10.2017_Unvereinbare%20Liegenschaftsvermittlung.pdf"
+pdf_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheid%2020.10.2017_Unvereinbare%20Liegenschaftsvermittlung.pdf"
+---
+
+# BE Weitere JGK 26.11 - 17.27
+
+## Regeste
+
+Unvereinbare Liegenschaftsvermittlung
+
+## Text
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide 20.10.2017 JGK 26.11 - 17.27
+Berne Autorité de surveillance du notariat Procédure disciplinaire 20.10.2017 JGK 26.11 - 17.27
+
+Unvereinbare Liegenschaftsvermittlung
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide
+Berne Autorité de surveillance du notariat Procédure disciplinaire
+Berna Disziplinarentscheide
