@@ -1,0 +1,27 @@
+---
+decision_id: "be_weitere_JGK_26.11_-_16.88"
+court: "BE Weitere"
+court_id: "be_weitere"
+docket: "JGK 26.11 - 16.88"
+decided: "2018-03-21"
+language: "de"
+source_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheid%2021.03.2018_Verstoss%20gegen%20Gebot%20der%20einwandfreien%20Berufsaus%C3%BCbung%3B%20Schlussabrechnung%20Grundst%C3%BCckgewinnsteuer%20erst%20knapp%20drei%20Jahre%20nach%20Veranla.pdf"
+pdf_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheid%2021.03.2018_Verstoss%20gegen%20Gebot%20der%20einwandfreien%20Berufsaus%C3%BCbung%3B%20Schlussabrechnung%20Grundst%C3%BCckgewinnsteuer%20erst%20knapp%20drei%20Jahre%20nach%20Veranla.pdf"
+---
+
+# BE Weitere JGK 26.11 - 16.88
+
+## Regeste
+
+Verstoss gegen Gebot der einwandfreien Berufsausübung; Schlussabrechnung Grundstückgewinnsteuer erst knapp drei Jahre nach Veranlagung
+
+## Text
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide 21.03.2018 JGK 26.11 - 16.88
+Berne Autorité de surveillance du notariat Procédure disciplinaire 21.03.2018 JGK 26.11 - 16.88
+
+Verstoss gegen Gebot der einwandfreien Berufsausübung; Schlussabrechnung Grundstückgewinnsteuer erst knapp drei Jahre nach Veranlagung
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide
+Berne Autorité de surveillance du notariat Procédure disciplinaire
+Berna Disziplinarentscheide
