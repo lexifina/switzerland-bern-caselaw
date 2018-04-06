@@ -1,0 +1,27 @@
+---
+decision_id: "be_weitere_JGK_26.11_-_17.44"
+court: "BE Weitere"
+court_id: "be_weitere"
+docket: "JGK 26.11 - 17.44"
+decided: "2018-04-06"
+language: "de"
+source_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheid%2006.04.2018_Verstoss%20gegen%20Art.%2028%20I%20NV%3B%20Vermischung%20von%20Klientengelder%20mit%20Privatverm%C3%B6gen.pdf"
+pdf_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK_ABA_Notariat_Entscheid%2006.04.2018_Verstoss%20gegen%20Art.%2028%20I%20NV%3B%20Vermischung%20von%20Klientengelder%20mit%20Privatverm%C3%B6gen.pdf"
+---
+
+# BE Weitere JGK 26.11 - 17.44
+
+## Regeste
+
+Verstoss gegen Art. 28 I NV; Vermischung von Klientengelder mit Privatvermögen
+
+## Text
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide 06.04.2018 JGK 26.11 - 17.44
+Berne Autorité de surveillance du notariat Procédure disciplinaire 06.04.2018 JGK 26.11 - 17.44
+
+Verstoss gegen Art. 28 I NV; Vermischung von Klientengelder mit Privatvermögen
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide
+Berne Autorité de surveillance du notariat Procédure disciplinaire
+Berna Disziplinarentscheide
