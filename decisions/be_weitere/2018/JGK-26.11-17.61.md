@@ -1,0 +1,27 @@
+---
+decision_id: "be_weitere_JGK_26.11_-_17.61"
+court: "BE Weitere"
+court_id: "be_weitere"
+docket: "JGK 26.11 - 17.61"
+decided: "2018-08-21"
+language: "de"
+source_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK-E%20vom%2021.08.2018%20%28Interessenwahrungspflicht%20verletzt%20durch%20Verschleppung%20Inventar%29.pdf"
+pdf_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK-E%20vom%2021.08.2018%20%28Interessenwahrungspflicht%20verletzt%20durch%20Verschleppung%20Inventar%29.pdf"
+---
+
+# BE Weitere JGK 26.11 - 17.61
+
+## Regeste
+
+Interessenwahrungspflicht verletzt durch Verschleppung Inventar
+
+## Text
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide 21.08.2018 JGK 26.11 - 17.61
+Berne Autorité de surveillance du notariat Procédure disciplinaire 21.08.2018 JGK 26.11 - 17.61
+
+Interessenwahrungspflicht verletzt durch Verschleppung Inventar
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide
+Berne Autorité de surveillance du notariat Procédure disciplinaire
+Berna Disziplinarentscheide
