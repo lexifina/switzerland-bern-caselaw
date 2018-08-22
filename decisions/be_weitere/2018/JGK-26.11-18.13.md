@@ -1,0 +1,27 @@
+---
+decision_id: "be_weitere_JGK_26.11_-_18.13"
+court: "BE Weitere"
+court_id: "be_weitere"
+docket: "JGK 26.11 - 18.13"
+decided: "2018-08-22"
+language: "de"
+source_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK-E%20vom%2022.08.2018%20%28Verletzung%20Ausstandspflicht%20durch%20Verukundung%20Schuldbrief%3B%20Notar%20ist%20VR%20der%20Gl%C3%A4ubigerbank%29%20_.pdf"
+pdf_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/JGK-E%20vom%2022.08.2018%20%28Verletzung%20Ausstandspflicht%20durch%20Verukundung%20Schuldbrief%3B%20Notar%20ist%20VR%20der%20Gl%C3%A4ubigerbank%29%20_.pdf"
+---
+
+# BE Weitere JGK 26.11 - 18.13
+
+## Regeste
+
+Verletzung Ausstandspflicht durch Verukundung Schuldbrief; Notar ist VR der Gläubigerbank
+
+## Text
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide 22.08.2018 JGK 26.11 - 18.13
+Berne Autorité de surveillance du notariat Procédure disciplinaire 22.08.2018 JGK 26.11 - 18.13
+
+Verletzung Ausstandspflicht durch Verukundung Schuldbrief; Notar ist VR der Gläubigerbank
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide
+Berne Autorité de surveillance du notariat Procédure disciplinaire
+Berna Disziplinarentscheide
