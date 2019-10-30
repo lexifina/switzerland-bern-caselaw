@@ -1,0 +1,27 @@
+---
+decision_id: "be_weitere_JGK_26.11_-_18.14"
+court: "BE Weitere"
+court_id: "be_weitere"
+docket: "JGK 26.11 - 18.14"
+decided: "2019-10-30"
+language: "de"
+source_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/Entscheid%20JGK%2026.11-18.14%20vom%2030.10.2019%20%28anonymisiert%29.pdf"
+pdf_url: "https://www.jgk.be.ch/jgk/de/index/aufsicht/notariat/Entscheide/Disziplinarentscheide.assetref/dam/documents/JGK/ABA/de/Notariatsentscheide/Entscheid%20JGK%2026.11-18.14%20vom%2030.10.2019%20%28anonymisiert%29.pdf"
+---
+
+# BE Weitere JGK 26.11 - 18.14
+
+## Regeste
+
+Verletzung Interessenwahrungspflicht (Vertrag wird nicht von Umfang einer Spezialvollmacht gedeckt)
+
+## Text
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide 30.10.2019 JGK 26.11 - 18.14
+Berne Autorité de surveillance du notariat Procédure disciplinaire 30.10.2019 JGK 26.11 - 18.14
+
+Verletzung Interessenwahrungspflicht (Vertrag wird nicht von Umfang einer Spezialvollmacht gedeckt)
+
+Bern Aufsichtsbehörde Notariat Disziplinarentscheide
+Berne Autorité de surveillance du notariat Procédure disciplinaire
+Berna Disziplinarentscheide
